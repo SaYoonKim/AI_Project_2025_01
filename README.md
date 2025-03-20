@@ -40,7 +40,7 @@ MarkDown 내용 정리
 Click [My Git Hub](https://github.com/내주소)
 
 <!-- Image -->
-![image](https://admin.bentoml.com/uploads/comfyui_IP_Adapter_plus_5bf6a8ef1f.jpg)
+![image](https://github.com/SaYoonKim/AI_Project_2025_01/blob/main/img2img/00001-3883571192.png?raw=true)
 
 <!--Table -->
 
